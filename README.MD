@@ -1,6 +1,6 @@
 # Tratamento de Dados
 
-![Gauss](https://gph.is/2AzqrTA)
+![Gauss](https://media.giphy.com/media/mS2LhYarpPxuw/giphy.gif)
 
 Durante o processo de análise de dados de uma fila é necessário tratar os outliers, e fazer toda a estatístia descritiva de chegadas e atendimento. Para isso foi desenvolvido um programa em R para tratamento desses dados.
 
